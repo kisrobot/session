@@ -4,9 +4,9 @@ import (
 	"net/http"
 
 	"github.com/gorilla/sessions"
-	"github.com/qor/middlewares"
-	"github.com/qor/session"
-	"github.com/qor/session/gorilla"
+	"github.com/kisrobot/middlewares"
+	"github.com/kisrobot/session"
+	"github.com/kisrobot/session/gorilla"
 )
 
 // SessionManager default session manager

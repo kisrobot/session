@@ -8,8 +8,8 @@ import (
 
 	gorillaContext "github.com/gorilla/context"
 	"github.com/gorilla/sessions"
-	"github.com/qor/qor/utils"
-	"github.com/qor/session"
+	"github.com/kisrobot/qor/utils"
+	"github.com/kisrobot/session"
 )
 
 // New initialize session manager for gorilla
